@@ -21,7 +21,7 @@
 #### Network 구축
 - 2 개의 ConvNets를 설계, 하나는 크고 하나는 작음
 - 그것들은 6 개의 컨볼루션 레이어와 3개의 Fully Connected를 가진 9 개의 레이어
-![image](./char_conv_net.png)
+![image](char_conv_net.png)
 - Input은 70개의 Feature를 가짐 <- 위의 Character One-Hot Encoding으로 인해
 - Input Feature의 길이는 1014개 이다.
 - 2개의 Dropout이 후반부 Fully Connected Networkds에 regularize를 위해 사용되었다.
