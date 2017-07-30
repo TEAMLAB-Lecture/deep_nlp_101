@@ -20,3 +20,9 @@
 ### Document Classification
 - \[[CHAR_CNN_2015]()\] Zhang, Xiang, Junbo Zhao, and Yann LeCun. "Character-level convolutional networks for text classification." In Advances in neural information processing systems, pp. 649-657. 2015. Aaailalble at: http://papers.nips.cc/paper/5782-character-level-convolutional-networks-fo
 - \[[FASTTEXT_2016()]()\]Joulin, Armand, Edouard Grave, Piotr Bojanowski, and Tomas Mikolov. "Bag of tricks for efficient text classification." arXiv preprint arXiv:1607.01759 (2016). Available at - https://arxiv.org/abs/1607.01759
+
+### Network Architecture
+- \[SEQ2SEQ_2014\]Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. "Sequence to sequence learning with neural networks." In Advances in neural information processing systems, pp. 3104-3112. 2014. Available at - https://arxiv.org/abs/1409.3215
+
+
+http://www.sciencedirect.com/science/article/pii/S0893608005001206
