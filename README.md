@@ -11,6 +11,7 @@
 - Word Vector Representations
 - Document Classification
 - Documnet Simliarity
+- NLP Tutorial(2018)
 
 
 ## Reference
