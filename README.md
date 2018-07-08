@@ -5,7 +5,7 @@
 - 본 과정은 딥러닝을 활용하여 자연어 처리의 여러 기법들을 구현하는 방법을 소개합니다.
 
 ## Course history
-- [2018] [NLP with DL](./2018/READEME.md), graduate cource, IME at Gachon University
+- [2018] [NLP with DL](https://github.com/TEAMLAB-Lecture/deep_nlp_101/tree/master/2018), graduate cource, IME at Gachon University
 
 ## Course coverage
 - 본 과정에서 주료 다루는 NLP 기법들은 아래와 같습니다.
