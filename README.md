@@ -1,7 +1,8 @@
 # Natural Language Process with Deep Learning
 
 ## 과정개요
-- 본 과정은 딥러닝을 활용하여 자연어 처리의 여러 방법들을 구현하는 방법에 대해 소개합니다
+- 본 과정은 딥러닝을 활용하여 자연어 처리의 여러 방법들을 구현하는 방법에 대해 소개합니다.
+- 본 과정에서 주료 다루는 NLP 기법들은 아래와 같습니다.
 
 ## 다루는 내용들
 - Traditional approach for text represenstation
