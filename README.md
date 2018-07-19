@@ -40,8 +40,19 @@
 - [Awesome-dl4nlp](https://github.com/brianspiering/awesome-dl4nlp)
 
 ## Papers
-### Word vector representations
+### Vector for language modeling
+
+#### word embeddings
 - \[[NLM_2003]()\] Bengio, Y., Ducharme, R., Vincent, P., & Jauvin, C. (2003). A neural probabilistic language model. Journal of machine learning research, 3(Feb), 1137-1155. Available - http://www.jmlr.org/papers/v3/bengio03a.html
+- \[[WORD2VEC_2013]()\] Mikolov, Tomas, Ilya Sutskever, Kai Chen, Greg S. Corrado, and Jeff Dean. "Distributed representations of words and phrases and their compositionality." In Advances in neural information processing systems, pp. 3111-3119. 2013.  Available - https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
+- \[[GLOVE_2014]()\] Pennington, Jeffrey, Richard Socher, and Christopher Manning. "Glove: Global vectors for word representation." In Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP), pp. 1532-1543. 2014. Available - http://www.aclweb.org/anthology/D14-1162
+
+#### sentece or paragraph embeddings
+- \[[DOC2VEC_2014]()\] Le, Quoc, and Tomas Mikolov. "Distributed representations of sentences and documents." In International Conference on Machine Learning, pp. 1188-1196. 2014. Available - https://cs.stanford.edu/~quocle/paragraph_vector.pdf
+- \[[SIM_SEN_2016]()\] Arora, S., Liang, Y. and Ma, T., 2016. A simple but tough-to-beat baseline for sentence embeddings. Available - https://openreview.net/forum?id=SyK00v5xx
+- \[[DEEP_SEN_2016]()\] Palangi, H., Deng, L., Shen, Y., Gao, J., He, X., Chen, J., Song, X. and Ward, R., 2016. Deep sentence embedding using long short-term memory networks: Analysis and application to information retrieval. IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP), 24(4), pp.694-707. Available - https://dl.acm.org/citation.cfm?id=2992457
+
+
 
 ### Text Classification
 - \[[CHAR_CNN_2015]()\] Zhang, Xiang, Junbo Zhao, and Yann LeCun. "Character-level convolutional networks for text classification." In Advances in neural information processing systems, pp. 649-657. 2015. Aaailalble at: http://papers.nips.cc/paper/5782-character-level-convolutional-networks-fo

@@ -1,17 +1,21 @@
 # Deep Learning for Natural Language Processing
-**TEAMLAB** 2018 NLP 스터디 공간입니다.
+## Course description
 
-### Framework
-   * Tensorflow
-   * Python
-   * Sicik-learn
+## Instructor
 
-### Index
+## Prerequisites
+
+## Syllabus
+| Subject | Materials |Videos|
+|---------|-----------|--------|
+| 1. Introduction to NLP applications with Deep Learning |  | 1. </br>2. </br>3. |
+| 2. Vector representation for language modeling |  | |
+| - Reading materials |0. [Bengio2003]() </br> 1. [word2vec paper](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) </br> 2. [word2vec tutorial](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) </br> 3. [doc2vec paper]((https://cs.stanford.edu/~quocle/paragraph_vector.pdf) </br> 4. [GloVe paper]() </br> 5. [FastText paper]()| |
+
+
+
    * Word Embedding Methods(Lecture01~02)
        * BOW, CBOW, skip-gram
-   * Word, Document Representation
-       * [Word2Vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
-       * [Doc2Vec](https://cs.stanford.edu/~quocle/paragraph_vector.pdf)
    * Classification
        * [Text-CNN (Yoon Kim, 2015)](https://arxiv.org/abs/1408.5882)
        * [Text-CNN Character-level](https://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf)
