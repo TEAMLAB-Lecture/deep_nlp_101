@@ -1,8 +1,11 @@
 # Natural Language Process with Deep Learning
 
 ## Course overview
--
-- 본 과정은 딥러닝을 활용하여 자연어 처리의 여러 기법들을 구현하는 방법을 소개합니다.
+Todays, Natural Language Processing (NLP) plays a significant role in building intelligent information systems. Traditionally, applications of NLP are everywhere in a variety of areas including web searching, email processing, e-commerce, translation, and automatic generation of reports.  Human languages are complex and unstructured. NLP is recognized as a tough field because various preprocessing is required for a computer to understand human words.
+
+In recent years, the explosion of text data and advancement of Deep Learning technology have resulted in a dramatic increase in the performance of existing NLP applications. In particular, neural networks, unlike traditional models, find the appropriate features for text information on their own, minimizing human involvement. Besides, by developing appropriate models for the features, we have seen dramatically increasing performance and practicality.
+
+In this course, students will take the advanced learning to develop NLP applications with cutting-edge deep learning techniques. You will study the design, implementation, debugging, and visualization techniques of neural network models to handle textual information. Through the final project, students will also have the opportunity to organize and train their neural net for text processing problems in specific areas they want to handle. It will be an arduous journey, but I wish you an enjoyable walk with your friends.
 
 ## Course history
 - [2018] [NLP with DL](https://github.com/TEAMLAB-Lecture/deep_nlp_101/tree/master/2018), graduate cource, IME at Gachon University
