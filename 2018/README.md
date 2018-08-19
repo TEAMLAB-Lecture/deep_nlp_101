@@ -9,8 +9,11 @@
 - 딥러닝, [Deep Learning - Theory and Application](https://github.com/TEAMLAB-Lecture/deep-learning-101/tree/master/2017), Gachon Univeristy, 2018
 
 ## Syllabus
-| Subject | Materials |Videos|
-|---------|-----------|--------|
+#### Week 0. Programming environment setup
+  1. Python installation - [conda](https://www.youtube.com/watch?v=lqSNOIPGbns&index=5&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I) , [atom](https://www.youtube.com/watch?v=cCxfLSIDfrk&index=6&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [ML environment](https://www.youtube.com/watch?v=P4dOSb0jcUw&index=7&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [jupyter](https://www.youtube.com/watch?v=Hz_k_0sOv-w&index=8&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+  2. Pytorch - [Installation guide](./setup/README.md)
+  3. Numpy - [Numpy in a nutshell](https://www.youtube.com/watch?v=aHthqCgsSFs&list=PLBHVuYlKEkULZLnKLzRq1CnNBOBlBTkqp)
+
 | Introduction to NLP applications with Deep Learning |  | 1. </br>2. </br>3. |
 | Vector representation for language modeling | - Lecture notes</br> 1. </br> - References </br> 1. [빈도수 세기의 놀라운 마법](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/11/embedding/)</br>3. | |
 | - Reading materials |0. [Bengio2003]() </br> 1. [word2vec paper](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) </br> 2. [word2vec tutorial](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) </br> 3. [doc2vec paper]((https://cs.stanford.edu/~quocle/paragraph_vector.pdf) </br> 4. [GloVe paper]() </br> 5. [FastText paper]()| N/A |
