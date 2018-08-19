@@ -42,6 +42,7 @@ In this course, students will take the advanced learning to develop NLP applicat
 - [paperswithcode](https://paperswithcode.com/)
 - [Awesome-dl4nlp](https://github.com/brianspiering/awesome-dl4nlp)
 - [CS224n 2018 Project](https://docs.google.com/presentation/d/1yg6fAW52GdyVaMm2ZvSGF3o2anR7RcXu-fAzeD7Uqts/edit#slide=id.p)
+- [Blue](https://www.youtube.com/watch?v=DejHQYAGb7Q)
 ## Papers
 ### Vector for language modeling
 
@@ -63,6 +64,7 @@ In this course, students will take the advanced learning to develop NLP applicat
 
 ### Network Architecture
 - \[SEQ2SEQ_2014\]Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. "Sequence to sequence learning with neural networks." In Advances in neural information processing systems, pp. 3104-3112. 2014. Available at - https://arxiv.org/abs/1409.3215
+
 
 
 http://www.sciencedirect.com/science/article/pii/S0893608005001206
