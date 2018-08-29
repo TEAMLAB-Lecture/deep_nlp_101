@@ -12,15 +12,11 @@ In this course, students will take the advanced learning to develop NLP applicat
 
 ## Course coverage
 - 본 과정에서 주료 다루는 NLP 기법들은 아래와 같습니다.
-  - Language modeling
-    - Word embeddings
-    - Document embeddings
-    - Text simliarity
-  - Memory and Attention Models
-  - Text classification
-  - Sentiment Analysis
-  - Parsing & Tagging
+  - Language modeling - techniques of embeddings
+  - Neural net arichtecutre for NLP: Memory, Attention and Transformer Models
+  - Text classification & Sentiment Analysis
   - Neural machine translation
+  - Parsing & Tagging
   - Conversation modeling / Dialog
     - Chatbot modeling
     - Visual question and answering
@@ -30,23 +26,21 @@ In this course, students will take the advanced learning to develop NLP applicat
 - 파이썬 코딩 능력
   - [데이터 과학을 위한 파이썬 입문](https://www.inflearn.com/course/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8-%EA%B0%95%EC%A2%8C/)
 - 머신 러닝 기초 이해
-  - [밑바닥 부터 시작하는 머신러닝 입문] (https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%9E%85%EB%AC%B8-%EA%B0%95%EC%A2%8C/)
+  - [밑바닥 부터 시작하는 머신러닝 입문](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%9E%85%EB%AC%B8-%EA%B0%95%EC%A2%8C/)
 - 딥러닝 기초 이해
   - [모두를 위한 머신러닝과 딥러닝](http://hunkim.github.io/ml/)
 
 ## Resources
 - Courses
-  - CS224n [link](http://web.stanford.edu/class/cs224n/)
-  - Neural Networks for NLP from Carnegie Mellon University [link](http://phontron.com/class/nn4nlp2017/)
-  - Deep Learning for Natural Language Processing from University of Oxford and DeepMind [link](https://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
-- [paperswithcode](https://paperswithcode.com/)
+  - CS224n [link](http://web.stanford.edu/class/cs224n/), [youtube]()
+  - Neural Networks for NLP from Carnegie Mellon University [link](http://phontron.com/class/nn4nlp2017/), [youtube]()
+  - Deep Learning for Natural Language Processing from University of Oxford and DeepMind [link](https://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/), [youtube]()
 - [Awesome-dl4nlp](https://github.com/brianspiering/awesome-dl4nlp)
+- [paperswithcode](https://paperswithcode.com/)
 - [CS224n 2018 Project](https://docs.google.com/presentation/d/1yg6fAW52GdyVaMm2ZvSGF3o2anR7RcXu-fAzeD7Uqts/edit#slide=id.p)
-- [Blue](https://www.youtube.com/watch?v=DejHQYAGb7Q)
-## Papers
-### Vector for language modeling
 
-#### word embeddings
+## Papers
+#### Word embeddings
 - \[[NLM_2003]()\] Bengio, Y., Ducharme, R., Vincent, P., & Jauvin, C. (2003). A neural probabilistic language model. Journal of machine learning research, 3(Feb), 1137-1155. Available - http://www.jmlr.org/papers/v3/bengio03a.html
 - \[[WORD2VEC_2013]()\] Mikolov, Tomas, Ilya Sutskever, Kai Chen, Greg S. Corrado, and Jeff Dean. "Distributed representations of words and phrases and their compositionality." In Advances in neural information processing systems, pp. 3111-3119. 2013.  Available - https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
 - \[[GLOVE_2014]()\] Pennington, Jeffrey, Richard Socher, and Christopher Manning. "Glove: Global vectors for word representation." In Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP), pp. 1532-1543. 2014. Available - http://www.aclweb.org/anthology/D14-1162, [PR12](https://www.youtube.com/watch?v=uZ2GtEe-50E&t=0s&index=29&list=PLWKf9beHi3Tg50UoyTe6rIm20sVQOH1br), [ratsgoBlog #1](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/04/09/glove/), [ratsgoBlog #2](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/07/04/glove/)
@@ -55,7 +49,6 @@ In this course, students will take the advanced learning to develop NLP applicat
 - \[[DOC2VEC_2014]()\] Le, Quoc, and Tomas Mikolov. "Distributed representations of sentences and documents." In International Conference on Machine Learning, pp. 1188-1196. 2014. Available - https://cs.stanford.edu/~quocle/paragraph_vector.pdf
 - \[[SIM_SEN_2016]()\] Arora, S., Liang, Y. and Ma, T., 2016. A simple but tough-to-beat baseline for sentence embeddings. Available - https://openreview.net/forum?id=SyK00v5xx
 - \[[DEEP_SEN_2016]()\] Palangi, H., Deng, L., Shen, Y., Gao, J., He, X., Chen, J., Song, X. and Ward, R., 2016. Deep sentence embedding using long short-term memory networks: Analysis and application to information retrieval. IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP), 24(4), pp.694-707. Available - https://dl.acm.org/citation.cfm?id=2992457
-
 
 
 ### Text Classification

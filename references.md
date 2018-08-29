@@ -1,6 +1,8 @@
 http://www.fastcampus.co.kr/data_camp_dtm/
 https://blog.naver.com/bcj1210/221144612341
 
+- [Blue](https://www.youtube.com/watch?v=DejHQYAGb7Q)
+
 Part 1. 텍스트 마이닝 기법
 1	텍스트 마이닝 개요 : 텍스트 분석을 위한 기본적인 내용을 소개
 - 텍스트 마이닝 프레임워크

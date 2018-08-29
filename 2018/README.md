@@ -3,20 +3,57 @@
 
 ## Instructor
 
-## Prerequisites
-- 파이썬, [데이터 과학을 위한 파이썬 입문](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%9E%85%EB%AC%B8-%EA%B0%95%EC%A2%8C/), inflearn, 2017
-- 머신러닝, [밑바닥 부터 시작하는 머신러닝 입문](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%9E%85%EB%AC%B8-%EA%B0%95%EC%A2%8C/), inflearn, 2017
-- 딥러닝, [Deep Learning - Theory and Application](https://github.com/TEAMLAB-Lecture/deep-learning-101/tree/master/2017), Gachon Univeristy, 2018
+## Reference Texts
+- Yoav Goldberg. A Primer on Neural Network Models for Natural Language Processing [link](https://piazza-resources.s3.amazonaws.com/iyaaxqe1yxg7fm/iybxmq5nkds6ln/goldberg_2017_book_draft_20170123.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAR6AWVCBXWF65RCFJ%2F20180829%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20180829T162708Z&X-Amz-Expires=10800&X-Amz-SignedHeaders=host&X-Amz-Security-Token=FQoGZXIvYXdzELz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDA4Ikbvz0RVbmEPA%2ByK3A9ufABeW09UhdDhdszEV8NatB5PNYjoKy6uroe9iiIkOHa9IFEXlelehO0fRQKm2Ncdmv7VBYggvOzrjLbrWwQEpHPi7UAlUhYKJA53yaT5zrp46abmMzyhR%2FeIG383dPFgSe2wo5vBJ3geUvhaD7siTN1MdNNnlLTKDVYzeh8K05veAkVbineQgGkCrs%2FK0xzdwFM6nEZYOn2XFNx6hE8mgGEBi5FWwUstDGa%2BJzxpIbFN0dWFV20LW%2Fz%2BNO3BY8tat7WGd0oznAX8t%2BhkmwNCD9pWcAP9eiFq1VRGd0BKHAsElpNJv6D7NffYWYarMV7C2DK6XkZwQNp9IhaLx0wCDcKCkpgYjufZPFy78ias2JVBFvr7Z5d3dAA9UhRoZDeJ1CkM3FIc%2BqxvcdRyHlTCX9NEKFccdT8AuzXtudaIe%2BrS26TCEwWVigD64pGKgSAljP67hgy%2FXTZSlWS0Zxwi2r8mrOZSmSyCPllOwA9u%2F1x2s%2Fq3KTMQwygZm%2BuYcizy8HdBqQ6z9ZI5eIkGpYzsLNcggzzImFi0lH8%2BKGdSv7a4EiSOV8GLmLnW1VtpTPYb49TbZgp8o9vSZ3AU%3D&X-Amz-Signature=5da24611e5df7f801d9eb16cee57806b0f4fac840a51868277e81b8ca08041a4)
+- Ian Goodfellow, Yoshua Bengio, and Aaron Courville. Deep Learning. MIT Press. [link](https://github.com/janishar/mit-deep-learning-book-pdf)
+
 
 ## Syllabus
-#### Week 0. Programming environment setup
+#### ch 0. Programming environment setup
+##### Python setup
   1. Python installation - [conda](https://www.youtube.com/watch?v=lqSNOIPGbns&index=5&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I) , [atom](https://www.youtube.com/watch?v=cCxfLSIDfrk&index=6&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [ML environment](https://www.youtube.com/watch?v=P4dOSb0jcUw&index=7&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [jupyter](https://www.youtube.com/watch?v=Hz_k_0sOv-w&index=8&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
   2. Pytorch - [Installation guide](./setup/README.md)
   3. Numpy - [Numpy in a nutshell](https://www.youtube.com/watch?v=aHthqCgsSFs&list=PLBHVuYlKEkULZLnKLzRq1CnNBOBlBTkqp)
 
-| Introduction to NLP applications with Deep Learning |  | 1. </br>2. </br>3. |
-| Vector representation for language modeling | - Lecture notes</br> 1. </br> - References </br> 1. [빈도수 세기의 놀라운 마법](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/11/embedding/)</br>3. | |
-| - Reading materials |0. [Bengio2003]() </br> 1. [word2vec paper](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) </br> 2. [word2vec tutorial](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/) </br> 3. [doc2vec paper]((https://cs.stanford.edu/~quocle/paragraph_vector.pdf) </br> 4. [GloVe paper]() </br> 5. [FastText paper]()| N/A |
+##### Environments for deep learning machines
+  1.
+
+
+#### ch 1. Introduction to NLP applications with Deep Learning
+#### ch 2. Lanuage modeling
+##### Class materials
+
+##### Reference papers
+-[A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
+- [word2vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+- [word2vec_explained](https://arxiv.org/pdf/1402.3722.pdf)
+- [doc2vec](https://cs.stanford.edu/~quocle/paragraph_vector.pdf)
+- [GloVe](https://nlp.stanford.edu/pubs/glove.pdf)
+- FastText
+- [t-SNE](https://lvdmaaten.github.io/publications/papers/JMLR_2008.pdf)
+- [Evaluation methods for unsupervised word embeddings](http://aclweb.org/anthology/D15-1036)
+
+##### Reading Materials - papers
+- [Graph2Vec](https://link.springer.com/chapter/10.1007/978-3-319-73198-8_9)
+- [Entity2Vec](http://www.di.unipi.it/~ottavian/files/wsdm15_fel.pdf)
+- [WordNet2Vec](https://arxiv.org/abs/1606.03335)
+- [Author2Vec](https://www.microsoft.com/en-us/research/publication/author2vec-learning-author-representations-by-combining-content-and-link-information/)
+- [Paper2Vec](https://arxiv.org/pdf/1703.06587.pdf)
+- [Wikipedia2Vec](https://wikipedia2vec.github.io/wikipedia2vec/), [paper](http://www.aclweb.org/anthology/K16-1025)
+- [Sense2Vec](https://arxiv.org/abs/1511.06388)
+- [Ngram2Vec](http://www.aclweb.org/anthology/D17-1023)
+- [morphology embeddings](http://aclweb.org/anthology/W/W13/W13-3512.pdf)
+- [char embeddings](http://aclweb.org/anthology/D15-1176)
+- [subword embeddings](http://aclweb.org/anthology/Q/Q17/Q17-1010.pdf)
+
+##### Reading Materials - Blog
+- [빈도수 세기의 놀라운 마법](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/11/embedding/)</br
+- [word2vec tutorial](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+- [PCA vs t-SNE](https://medium.com/@luckylwk/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
+- [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
+- [Awesome2Vec](https://github.com/MaxwellRebo/awesome-2vec)
+
+ <!-- </br> 4. [GloVe paper]() </br> 5. [FastText paper]()| N/A |
 | Recurrent Neural Networks and Attention Models   |  | |
 | Text Classificagtion and Sentimental Analysis      |  | |
 | Machine Translation  |  | |
@@ -24,7 +61,7 @@
 | Dependency Parsing      |  | |
 | Speech Recognition and Text to Speech     |  | |
 | Unsupervised and Semi-supervised Learning of Structure      |  | |
-| Advanced Search Algorithms      |  | |
+| Advanced Search Algorithms      |  | | -->
 <!--
    * Word Embedding Methods(Lecture01~02)
        * BOW, CBOW, skip-gram
@@ -42,10 +79,6 @@
    * Chat-bot
        * Implement seq2seq chat-bot -->
 
-## Useful Reference Texts
-- Dan Jurafsky and James H. Martin. Speech and Language Processing (3rd ed. draft) [link]
-- Yoav Goldberg. A Primer on Neural Network Models for Natural Language Processing [link]
-- Ian Goodfellow, Yoshua Bengio, and Aaron Courville. Deep Learning. MIT Press. [link]
 
 ## Assignments
 
