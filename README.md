@@ -38,6 +38,7 @@ In this course, students will take the advanced learning to develop NLP applicat
 - [Awesome-dl4nlp](https://github.com/brianspiering/awesome-dl4nlp)
 - [paperswithcode](https://paperswithcode.com/)
 - [CS224n 2018 Project](https://docs.google.com/presentation/d/1yg6fAW52GdyVaMm2ZvSGF3o2anR7RcXu-fAzeD7Uqts/edit#slide=id.p)
+- [The First Comprehensive Overview of AI for the General Public](https://montrealartificialintelligence.com/academy/#Getting-Started-Readings-Source-Code-and-Science)
 
 ## Papers
 #### Word embeddings
