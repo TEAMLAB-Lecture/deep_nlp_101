@@ -35,10 +35,11 @@ In this course, students will take the advanced learning to develop NLP applicat
   - CS224n [link](http://web.stanford.edu/class/cs224n/), [youtube]()
   - Neural Networks for NLP from Carnegie Mellon University [link](http://phontron.com/class/nn4nlp2017/), [youtube]()
   - Deep Learning for Natural Language Processing from University of Oxford and DeepMind [link](https://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/), [youtube]()
-- [Awesome-dl4nlp](https://github.com/brianspiering/awesome-dl4nlp)
-- [paperswithcode](https://paperswithcode.com/)
-- [CS224n 2018 Project](https://docs.google.com/presentation/d/1yg6fAW52GdyVaMm2ZvSGF3o2anR7RcXu-fAzeD7Uqts/edit#slide=id.p)
-- [The First Comprehensive Overview of AI for the General Public](https://montrealartificialintelligence.com/academy/#Getting-Started-Readings-Source-Code-and-Science)
+- Blogs
+  - [Awesome-dl4nlp](https://github.com/brianspiering/awesome-dl4nlp)
+  - [paperswithcode](https://paperswithcode.com/)
+  - [CS224n 2018 Project](https://docs.google.com/presentation/d/1yg6fAW52GdyVaMm2ZvSGF3o2anR7RcXu-fAzeD7Uqts/edit#slide=id.p)
+  - [The First Comprehensive Overview of AI for the General Public](https://montrealartificialintelligence.com/academy/#Getting-Started-Readings-Source-Code-and-Science)
 
 ## Papers
 #### Word embeddings
