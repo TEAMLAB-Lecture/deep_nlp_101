@@ -16,7 +16,7 @@
   3. Numpy - [Numpy in a nutshell](https://www.youtube.com/watch?v=aHthqCgsSFs&list=PLBHVuYlKEkULZLnKLzRq1CnNBOBlBTkqp)
 
 ##### Environments for deep learning machines
-  1.
+  - [Google Colab Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
 
 
 #### ch 1. Introduction to NLP applications with Deep Learning
@@ -49,10 +49,19 @@
 ##### Reading Materials - Blog
 - [빈도수 세기의 놀라운 마법](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/11/embedding/)</br
 - [word2vec tutorial](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+- [word2vec 관련 이론 정리](https://shuuki4.wordpress.com/2016/01/27/word2vec-%EA%B4%80%EB%A0%A8-%EC%9D%B4%EB%A1%A0-%EC%A0%95%EB%A6%AC/)
 - [PCA vs t-SNE](https://medium.com/@luckylwk/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
 - [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
 - [Awesome2Vec](https://github.com/MaxwellRebo/awesome-2vec)
 
+
+#### ch 3. Recurrent Neural Networks and Attention Models
+#### ch 4. Text Calssification and Sentimental Analysis
+#### ch 5. Question and Answering Models
+
+##### Reading Materials - papers
+- [
+Personalizing Dialogue Agents](https://arxiv.org/abs/1801.07243), [dataset](http://parl.ai/)
  <!-- </br> 4. [GloVe paper]() </br> 5. [FastText paper]()| N/A |
 | Recurrent Neural Networks and Attention Models   |  | |
 | Text Classificagtion and Sentimental Analysis      |  | |
