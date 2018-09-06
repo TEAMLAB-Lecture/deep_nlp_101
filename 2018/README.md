@@ -24,7 +24,7 @@
 ##### Class materials
 
 ##### Reference papers
--[A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
+- [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 - [word2vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 - [word2vec_explained](https://arxiv.org/pdf/1402.3722.pdf)
 - [doc2vec](https://cs.stanford.edu/~quocle/paragraph_vector.pdf)
@@ -32,6 +32,9 @@
 - FastText
 - [t-SNE](https://lvdmaaten.github.io/publications/papers/JMLR_2008.pdf)
 - [Evaluation methods for unsupervised word embeddings](http://aclweb.org/anthology/D15-1036)
+
+##### Dataset
+- [A Million News Headlines](https://www.kaggle.com/therohk/million-headlines/)
 
 ##### Reading Materials - papers
 - [Graph2Vec](https://link.springer.com/chapter/10.1007/978-3-319-73198-8_9)
@@ -48,11 +51,23 @@
 
 ##### Reading Materials - Blog
 - [빈도수 세기의 놀라운 마법](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/11/embedding/)</br
-- [word2vec tutorial](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
-- [word2vec 관련 이론 정리](https://shuuki4.wordpress.com/2016/01/27/word2vec-%EA%B4%80%EB%A0%A8-%EC%9D%B4%EB%A1%A0-%EC%A0%95%EB%A6%AC/)
-- [PCA vs t-SNE](https://medium.com/@luckylwk/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
-- [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
-- [Awesome2Vec](https://github.com/MaxwellRebo/awesome-2vec)
+- [Word embeddings: exploration, explanation, and exploitation](https://towardsdatascience.com/word-embeddings-exploration-explanation-and-exploitation-with-code-in-python-5dac99d5d795)
+- Word2Vec overall
+  - [word2vec tutorial](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+  - [QA: Word2Vec Actual Target Probability from TensorFlowKR](https://www.facebook.com/groups/TensorFlowKR/permalink/743666392641088/)
+  - [On word embeddings - Part 1](http://ruder.io/word-embeddings-1/)
+- Hierarchical Softmax & Negative Sampling
+  - [word2vec 관련 이론 정리](https://shuuki4.wordpress.com/2016/01/27/word2vec-%EA%B4%80%EB%A0%A8-%EC%9D%B4%EB%A1%A0-%EC%A0%95%EB%A6%AC/)
+  - [Hierarchical Softmax](http://dalpo0814.tistory.com/7)
+  - [Hierarchical Softmax](http://building-babylon.net/2017/08/01/hierarchical-softmax/)
+  - [Hugo Larochelle's Lecture - hierarchical output layer](https://www.youtube.com/watch?v=B95LTf2rVWM)
+  - [On word embeddings - Part 2: Approximating the Softmax](http://ruder.io/word-embeddings-softmax/)
+- Visualization
+  - [PCA vs t-SNE](https://medium.com/@luckylwk/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
+  - [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
+- Trends of Word Embeddings
+  - [Awesome2Vec](https://github.com/MaxwellRebo/awesome-2vec)
+  - [Word embeddings in 2017: Trends and future directions](http://ruder.io/word-embeddings-2017/)
 
 
 #### ch 3. Recurrent Neural Networks and Attention Models
@@ -62,11 +77,17 @@
 ##### Reading Materials - papers
 - [
 Personalizing Dialogue Agents](https://arxiv.org/abs/1801.07243), [dataset](http://parl.ai/)
- <!-- </br> 4. [GloVe paper]() </br> 5. [FastText paper]()| N/A |
-| Recurrent Neural Networks and Attention Models   |  | |
-| Text Classificagtion and Sentimental Analysis      |  | |
-| Machine Translation  |  | |
-| QA Systems      |  | |
+
+##### Reading Materials - Blog
+- [Chat Smarter with Allo](https://ai.googleblog.com/2016/05/chat-smarter-with-allo.html)
+
+
+#### ch 6. Dependency Parsing
+#### ch 7. Machine Translation
+
+##### Reading Materials - papers
+- [Pervasive Attention](https://arxiv.org/abs/1808.03867.pdf)
+
 | Dependency Parsing      |  | |
 | Speech Recognition and Text to Speech     |  | |
 | Unsupervised and Semi-supervised Learning of Structure      |  | |

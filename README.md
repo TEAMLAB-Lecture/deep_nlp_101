@@ -61,6 +61,9 @@ In this course, students will take the advanced learning to develop NLP applicat
 ### Network Architecture
 - \[SEQ2SEQ_2014\]Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. "Sequence to sequence learning with neural networks." In Advances in neural information processing systems, pp. 3104-3112. 2014. Available at - https://arxiv.org/abs/1409.3215
 
+## Datasets
+- [The Best 25 Datasets for Natural Language Processing](https://gengo.ai/articles/the-best-25-datasets-for-natural-language-processing/)
+- [Data Sets and Corpora](https://natemccoy.github.io/2016/11/28/datasetsandcorpora.html)
 
 
 http://www.sciencedirect.com/science/article/pii/S0893608005001206
