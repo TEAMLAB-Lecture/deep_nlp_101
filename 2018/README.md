@@ -75,6 +75,14 @@
 
 
 #### ch 3. Recurrent Neural Networks and Attention Models
+
+##### Class materials
+##### Reference papers
+##### Reading Materials - papers
+##### Reading Materials - Blog
+- Attention
+  - [Attention API로 간단히 어텐션 사용하기](http://freesearch.pe.kr/archives/4876)
+
 #### ch 4. Text Calssification and Sentimental Analysis
 #### ch 5. Question and Answering Models
 
