@@ -33,7 +33,7 @@
 - [word2vec_explained](https://arxiv.org/pdf/1402.3722.pdf)
 - [doc2vec](https://cs.stanford.edu/~quocle/paragraph_vector.pdf)
 - [GloVe](https://nlp.stanford.edu/pubs/glove.pdf)
-- FastText
+- [fasttext](http://aclweb.org/anthology/Q/Q17/Q17-1010.pdf)
 - [t-SNE](https://lvdmaaten.github.io/publications/papers/JMLR_2008.pdf)
 - [Evaluation methods for unsupervised word embeddings](http://aclweb.org/anthology/D15-1036)
 
@@ -41,17 +41,20 @@
 - [A Million News Headlines](https://www.kaggle.com/therohk/million-headlines/)
 
 ##### Reading Materials - papers
-- [Graph2Vec](https://link.springer.com/chapter/10.1007/978-3-319-73198-8_9)
-- [Entity2Vec](http://www.di.unipi.it/~ottavian/files/wsdm15_fel.pdf)
-- [WordNet2Vec](https://arxiv.org/abs/1606.03335)
-- [Author2Vec](https://www.microsoft.com/en-us/research/publication/author2vec-learning-author-representations-by-combining-content-and-link-information/), [slide](slide/author2vec.pdf), [video](https://vimeo.com/290894287)
-- [Paper2Vec](https://arxiv.org/pdf/1703.06587.pdf)
-- [Wikipedia2Vec](https://wikipedia2vec.github.io/wikipedia2vec/), [paper](http://www.aclweb.org/anthology/K16-1025), [slide](slide/wikipedia2vec.pdf), [video](https://vimeo.com/290916448)
-- [Sense2Vec](https://arxiv.org/abs/1511.06388), [slide](sldie/sense2vec.pdf) [video](https://vimeo.com/290891986)
-- [Ngram2Vec](http://www.aclweb.org/anthology/D17-1023)
-- [morphology embeddings](http://aclweb.org/anthology/W/W13/W13-3512.pdf)
-- [char embeddings](http://aclweb.org/anthology/D15-1176), [slide](https://docs.google.com/presentation/d/12QsX5wI3JwDkSq5pROP-v2-0JQutGLwuMSPPJKkv_Fk/edit?usp=sharing), [video](https://vimeo.com/290892980/e0a8501abc)
-- [subword embeddings](http://aclweb.org/anthology/Q/Q17/Q17-1010.pdf)
+| Name | URL | slide | video |
+| ---  | ---- | ----| --- |
+| Graph2Vec | https://link.springer.com/chapter/10.1007/978-3-319-73198-8_9 |  |  |
+| Entity2Vec |http://www.di.unipi.it/~ottavian/files/wsdm15_fel.pdf|  |  |
+| WordNet2Vec| https://arxiv.org/abs/1606.03335|  |  |
+|Author2Vec |https://www.microsoft.com/en-us/research/publication/author2vec-learning-author-representations-by-combining-content-and-link-information/ |  [slide](slide/author2vec.pdf) |[video](https://vimeo.com/290894287)  |
+|Paper2Vec |https://arxiv.org/pdf/1703.06587.pdf |  |  |
+|Wikipedia2Vec |[github](https://wikipedia2vec.github.io/wikipedia2vec/), [paper](http://www.aclweb.org/anthology/K16-1025 | [slide](slide/wikipedia2vec.pdf) | [video](https://vimeo.com/290916448) |
+|Sense2Vec |https://arxiv.org/abs/1511.06388 | [slide](sldie/sense2vec.pdf) |  [video](https://vimeo.com/290891986) |
+|Ngram2Vec |http://www.aclweb.org/anthology/D17-1023 |  |  |
+|morphology embeddings |http://aclweb.org/anthology/W/W13/W13-3512.pdf |  |  |
+|char embeddings |http://aclweb.org/anthology/D15-1176 | [slide](https://docs.google.com/presentation/d/12QsX5wI3JwDkSq5pROP-v2-0JQutGLwuMSPPJKkv_Fk/edit?usp=sharing), |  [video](https://vimeo.com/290892980/e0a8501abc) |
+
+
 
 
 
