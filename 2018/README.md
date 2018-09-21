@@ -23,9 +23,11 @@
 #### ch 1. Introduction to NLP applications with Deep Learning
 #### ch 2. Lanuage modeling
 ##### Class materials
-- Feature representation for text - [slide](https://1drv.ms/b/s!ApZ4mg7k2qYhgb9w0YVknfymIjTx4A), ~~video~~
-- Languge Modelin - [slide](https://1drv.ms/b/s!ApZ4mg7k2qYhgb9w0YVknfymIjTx4A), [video](https://vimeo.com/289888588)
-- Word embedding model - Word2vec - [slide](https://1drv.ms/b/s!ApZ4mg7k2qYhgb91RnMoYCOvh-Wg_g), [video](https://vimeo.com/289888940)
+| lecture | slide | video |
+| --| --| --|
+|A feature representation methof for text |[slide](https://1drv.ms/b/s!ApZ4mg7k2qYhgb9w0YVknfymIjTx4A) |~~video~~ |
+|Languge Modeling |[slide](https://1drv.ms/b/s!ApZ4mg7k2qYhgb9w0YVknfymIjTx4A) | [video](https://vimeo.com/289888588)|
+| Word embedding model - Word2vec |[slide](https://1drv.ms/b/s!ApZ4mg7k2qYhgb91RnMoYCOvh-Wg_g) |[video](https://vimeo.com/289888940) |
 
 ##### Reference papers
 - [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
