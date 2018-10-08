@@ -104,8 +104,6 @@
 - [Dimensional Sentiment Analysis Using a Regional CNN-LSTM Model](http://anthology.aclweb.org/P16-2037)
 - [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](http://www.aclweb.org/anthology/D13-1170)
 
-http://semantics.kisti.re.kr/publications/files/DOMESTIC_JOURNAL/DJ-054.pdf
-https://arxiv.org/pdf/1801.07883.pdf
 
 ##### Reading Materials - Blog
 - LSTM Networks for Sentiment Analysis¶: http://deeplearning.net/tutorial/lstm.html
