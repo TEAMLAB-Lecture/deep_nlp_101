@@ -28,6 +28,9 @@
 |A feature representation methof for text |[slide](https://1drv.ms/b/s!ApZ4mg7k2qYhgb9w0YVknfymIjTx4A) |~~video~~ |
 |Languge Modeling |[slide](https://1drv.ms/b/s!ApZ4mg7k2qYhgb9w0YVknfymIjTx4A) | [video](https://vimeo.com/289888588)|
 | Word embedding model - Word2vec |[slide](https://1drv.ms/b/s!ApZ4mg7k2qYhgb91RnMoYCOvh-Wg_g) |[video](https://vimeo.com/289888940) |
+| Word2vec tricks - Hierarchical softmax & NCE loss |[slide](https://vimeo.com/292560864) |[video](https://vimeo.com/292559346) |
+| GloVe & FastText |[slide](https://1drv.ms/b/s!ApZ4mg7k2qYhgcAfrAjTbMAYj7nsAQ) |[video](https://vimeo.com/292560272) |
+| Sentence embeddings |[slide](https://1drv.ms/b/s!ApZ4mg7k2qYhgcAhuHt-u821RngETQ) |[video](https://vimeo.com/292560864) |
 
 ##### Reference papers
 - [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
@@ -58,7 +61,7 @@
 
 
 ##### Reading Materials - Blog
-- [빈도수 세기의 놀라운 마법](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/11/embedding/)</br
+- [빈도수 세기의 놀라운 마법](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/11/embedding/)
 - [Word embeddings: exploration, explanation, and exploitation](https://towardsdatascience.com/word-embeddings-exploration-explanation-and-exploitation-with-code-in-python-5dac99d5d795)
 - Word2Vec overall
   - [word2vec tutorial](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
@@ -78,7 +81,7 @@
   - [Word embeddings in 2017: Trends and future directions](http://ruder.io/word-embeddings-2017/)
 
 
-#### ch 3. Recurrent Neural Networks and Attention Models
+#### ch 3. Neural Network Archietures for NLP
 
 
 http://semantics.kisti.re.kr/publications/files/DOMESTIC_JOURNAL/DJ-054.pdf
