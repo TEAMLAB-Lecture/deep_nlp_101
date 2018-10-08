@@ -81,19 +81,60 @@
   - [Word embeddings in 2017: Trends and future directions](http://ruder.io/word-embeddings-2017/)
 
 
-#### ch 3. Neural Network Archietures for NLP
-
-
-http://semantics.kisti.re.kr/publications/files/DOMESTIC_JOURNAL/DJ-054.pdf
+#### ch 3. Neural Network Archietures for NLP tasks
 
 ##### Class materials
+| lecture | slide | video |
+| --| --| --|
+| Convolutional Neural Network |[slide]() | ~~video~~ |
+| Text classification task  | [slide]()  | ~~video~~  |
+| CNN for Text Classification (words) |[slide]() | ~~video~~ |
+| CNN for Text Classification (characters) |[slide]() | ~~video~~ |
+| Recurent Neural Networks |[slide]() | ~~video~~ |
+| RNN for text tasks |[slide]() | ~~video~~ |
+| Datasets and Tricks |[slide]() | ~~video~~ |
+
+
 ##### Reference papers
-##### Reading Materials - papers
+- [LSTM](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/43905.pdf)
+- [GRU](https://arxiv.org/pdf/1412.3555.pdf)
+- [Convolutional Neural Networks for Sentence Classification](http://www.people.fas.harvard.edu/~yoonkim/data/sent-cnn.pdf)
+- [Character-level Convolutional Networks for Text Classification](https://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf)
+- [Deep Convolutional Neural Networks for Sentiment Analysis of Short Texts](http://www.aclweb.org/anthology/C14-1008)
+- [Dimensional Sentiment Analysis Using a Regional CNN-LSTM Model](http://anthology.aclweb.org/P16-2037)
+- [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](http://www.aclweb.org/anthology/D13-1170)
+
+http://semantics.kisti.re.kr/publications/files/DOMESTIC_JOURNAL/DJ-054.pdf
+https://arxiv.org/pdf/1801.07883.pdf
+
 ##### Reading Materials - Blog
+- LSTM Networks for Sentiment Analysis¶: http://deeplearning.net/tutorial/lstm.html
+- ext By the Bay 2015: https://www.youtube.com/watch?v=tdLmf8t4oqM
+- How to solve 90% of NLP problems: a step-by-step guide
+ https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e
+
+##### Reading Materials - papers
+| Name | URL | slide | video |
+| ---  | ---- | ----| --- |
+| BB_twtr at SemEval-2017 Task 4 | https://arxiv.org/abs/1704.06125 |  |  |
+|Gated Recurrent Neural Network for Sentiment Classification  |http://www.aclweb.org/anthology/D15-1167   |   |   |
+|Bag of Tricks for Efficient Text Classification   |  https://arxiv.org/pdf/1607.01759.pdf |   |   |
+|Automated Essay Scoring   |http://www.aclweb.org/old_anthology/D/D16/D16-1193.pdf   |   |   |
+| Grammatical Error Correction |https://arxiv.org/abs/1801.08831   |   |   |
+|Character-Aware Neural Language Models   | https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/12489/12017|   |   |
+|Neural Architectures for Named Entity Recognition  |https://arxiv.org/pdf/1603.01360.pdf|   |   |
+|A Convolutional Neural Network for Modelling Sentences   | http://aclweb.org/anthology/P/P14/P14-1062.pdf  |   |   |
+
+
+#### ch 4. Machine Translation and Attention Mechanism
+
+##### Reading Materials - papers
+- [Pervasive Attention](https://arxiv.org/abs/1808.03867.pdf)
+- https://arxiv.org/abs/1810.00660
+
 - Attention
   - [Attention API로 간단히 어텐션 사용하기](http://freesearch.pe.kr/archives/4876)
 
-#### ch 4. Text Calssification and Sentimental Analysis
 #### ch 5. Question and Answering Models
 
 ##### Reading Materials - papers
@@ -105,24 +146,20 @@ Personalizing Dialogue Agents](https://arxiv.org/abs/1801.07243), [dataset](http
 
 
 #### ch 6. Dependency Parsing
-#### ch 7. Machine Translation
 
-##### Reading Materials - papers
-- [Pervasive Attention](https://arxiv.org/abs/1808.03867.pdf)
-
+##### Reading Materials - Blog
+https://medium.com/@anupamme/paper-reading-1-assessing-the-ability-of-lstms-to-learn-syntax-sensitive-dependencies-by-linzen-739cec9d0212
+<!--
 | Dependency Parsing      |  | |
 | Speech Recognition and Text to Speech     |  | |
 | Unsupervised and Semi-supervised Learning of Structure      |  | |
-| Advanced Search Algorithms      |  | | -->
+| Advanced Search Algorithms      |  | | --> -->
 <!--
    * Word Embedding Methods(Lecture01~02)
        * BOW, CBOW, skip-gram
    * Classification
-       * [Text-CNN (Yoon Kim, 2015)](https://arxiv.org/abs/1408.5882)
-       * [Text-CNN Character-level](https://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf)
        * RNN
-       * [GRU](https://arxiv.org/pdf/1412.3555.pdf)
-       * [LSTM](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/43905.pdf)
+
    * Machine translation
        * [Seq2Seq](https://arxiv.org/abs/1409.3215)
    * Text ganeration
@@ -139,11 +176,10 @@ Personalizing Dialogue Agents](https://arxiv.org/abs/1801.07243), [dataset](http
 
 
 ### Reference
-https://arxiv.org/abs/1408.5882
-https://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf
+https://github.com/keon/awesome-nlp/blob/master/README.md
+https://github.com/dparlevliet/awesome-nlp
+
 https://arxiv.org/pdf/1412.3555.pdf
 https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/43905.pdf
-https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
-https://cs.stanford.edu/~quocle/paragraph_vector.pdf
 https://arxiv.org/pdf/1712.00170.pdf
 https://arxiv.org/abs/1406.2661
