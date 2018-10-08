@@ -57,9 +57,6 @@
 |char embeddings |http://aclweb.org/anthology/D15-1176 | [slide](https://docs.google.com/presentation/d/12QsX5wI3JwDkSq5pROP-v2-0JQutGLwuMSPPJKkv_Fk/edit?usp=sharing), |  [video](https://vimeo.com/290892980/e0a8501abc) |
 
 
-
-
-
 ##### Reading Materials - Blog
 - [빈도수 세기의 놀라운 마법](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/03/11/embedding/)</br
 - [Word embeddings: exploration, explanation, and exploitation](https://towardsdatascience.com/word-embeddings-exploration-explanation-and-exploitation-with-code-in-python-5dac99d5d795)
@@ -82,6 +79,9 @@
 
 
 #### ch 3. Recurrent Neural Networks and Attention Models
+
+
+http://semantics.kisti.re.kr/publications/files/DOMESTIC_JOURNAL/DJ-054.pdf
 
 ##### Class materials
 ##### Reference papers
