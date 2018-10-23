@@ -125,13 +125,21 @@
 
 
 #### ch 4. Machine Translation and Attention Mechanism
+##### Class materials
+
+##### Reference papers
+
+
+##### Reading Materials - Blog
+- [Attention API로 간단히 어텐션 사용하기](http://freesearch.pe.kr/archives/4876)
+- [Recursive Neural Networks](https://ratsgo.github.io/deep%20learning/2017/04/03/recursive/)
+
 
 ##### Reading Materials - papers
 - [Pervasive Attention](https://arxiv.org/abs/1808.03867.pdf)
 - https://arxiv.org/abs/1810.00660
 
-- Attention
-  - [Attention API로 간단히 어텐션 사용하기](http://freesearch.pe.kr/archives/4876)
+
 
 #### ch 5. Question and Answering Models
 
@@ -147,24 +155,7 @@ Personalizing Dialogue Agents](https://arxiv.org/abs/1801.07243), [dataset](http
 
 ##### Reading Materials - Blog
 https://medium.com/@anupamme/paper-reading-1-assessing-the-ability-of-lstms-to-learn-syntax-sensitive-dependencies-by-linzen-739cec9d0212
-<!--
-| Dependency Parsing      |  | |
-| Speech Recognition and Text to Speech     |  | |
-| Unsupervised and Semi-supervised Learning of Structure      |  | |
-| Advanced Search Algorithms      |  | | --> -->
-<!--
-   * Word Embedding Methods(Lecture01~02)
-       * BOW, CBOW, skip-gram
-   * Classification
-       * RNN
-
-   * Machine translation
-       * [Seq2Seq](https://arxiv.org/abs/1409.3215)
-   * Text ganeration
-       * [GAN](https://arxiv.org/abs/1406.2661)
-       * [Text-generation](https://arxiv.org/pdf/1712.00170.pdf)
-   * Chat-bot
-       * Implement seq2seq chat-bot -->
+https://ratsgo.github.io/korean%20linguistics/2017/04/29/parsing/
 
 
 ## Assignments
