@@ -115,13 +115,13 @@
 | Name | URL | slide | video |
 | ---  | ---- | ----| --- |
 | BB_twtr at SemEval-2017 Task 4 | https://arxiv.org/abs/1704.06125 |  |  |
-|Gated Recurrent Neural Network for Sentiment Classification  |http://www.aclweb.org/anthology/D15-1167   |   |   |
-|Bag of Tricks for Efficient Text Classification   |  https://arxiv.org/pdf/1607.01759.pdf |   |   |
+| Sentiment Classification  |http://www.aclweb.org/anthology/D15-1167   |   |   |
+|Fast2Text Classification   |  https://arxiv.org/pdf/1607.01759.pdf |   |   |
 |Automated Essay Scoring   |http://www.aclweb.org/old_anthology/D/D16/D16-1193.pdf   |   |   |
 | Grammatical Error Correction |https://arxiv.org/abs/1801.08831   |   |   |
-|Character-Aware Neural Language Models   | https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/12489/12017|   |   |
-|Neural Architectures for Named Entity Recognition  |https://arxiv.org/pdf/1603.01360.pdf|   |   |
-|A Convolutional Neural Network for Modelling Sentences   | http://aclweb.org/anthology/P/P14/P14-1062.pdf  |   |   |
+|Character Language Models   | https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/12489/12017|   |   |
+|NER  |https://arxiv.org/pdf/1603.01360.pdf|   |   |
+|CNN for Modelling Sentences   | http://aclweb.org/anthology/P/P14/P14-1062.pdf  |   |   |
 
 
 #### ch 4. Machine Translation and Attention Mechanism
