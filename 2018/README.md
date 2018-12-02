@@ -126,11 +126,22 @@
 
 #### ch 4. Machine Translation and Attention Mechanism
 ##### Class materials
+| lecture | slide | video |
+| --| --| --|
+| Introduction to MT |[slide]() | ~~video~~ |
+| Attnetion Mechanism  | [slide]()  | ~~video~~  |
+| Transformer | [slide]() | [video](https://vimeo.com/303863180)  |
 
 ##### Reference papers
-
-
+- [S2S](https://arxiv.org/pdf/1409.3215.pdf)
+- [attention_paper](https://arxiv.org/abs/1409.0473)
+- [BLUE](https://www.aclweb.org/anthology/P02-1040.pdf)
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+-
 ##### Reading Materials - Blog
+- [Sequence-to-Sequence 모델로 뉴스 제목 추출하기](https://ratsgo.github.io/natural%20language%20processing/2017/03/12/s2s/)
+- [Attention 매카니즘](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/10/06/attention/)
+-
 - [Attention API로 간단히 어텐션 사용하기](http://freesearch.pe.kr/archives/4876)
 - [Recursive Neural Networks](https://ratsgo.github.io/deep%20learning/2017/04/03/recursive/)
 
@@ -138,7 +149,8 @@
 ##### Reading Materials - papers
 - [Pervasive Attention](https://arxiv.org/abs/1808.03867.pdf)
 - https://arxiv.org/abs/1810.00660
-
+- [BlackOut: Speeding up Recurrent Neural Network Language Models With Very Large Vocabularies](https://arxiv.org/abs/1511.06909)
+- [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
 
 
 #### ch 5. Question and Answering Models
@@ -151,7 +163,7 @@ Personalizing Dialogue Agents](https://arxiv.org/abs/1801.07243), [dataset](http
 - [Chat Smarter with Allo](https://ai.googleblog.com/2016/05/chat-smarter-with-allo.html)
 
 
-#### ch 6. Dependency Parsing
+<!-- #### ch 6. Dependency Parsing
 
 ##### Reading Materials - Blog
 https://medium.com/@anupamme/paper-reading-1-assessing-the-ability-of-lstms-to-learn-syntax-sensitive-dependencies-by-linzen-739cec9d0212
@@ -171,4 +183,4 @@ https://github.com/dparlevliet/awesome-nlp
 https://arxiv.org/pdf/1412.3555.pdf
 https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/43905.pdf
 https://arxiv.org/pdf/1712.00170.pdf
-https://arxiv.org/abs/1406.2661
+https://arxiv.org/abs/1406.2661 -->
