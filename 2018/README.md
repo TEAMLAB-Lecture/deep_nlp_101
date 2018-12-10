@@ -162,6 +162,7 @@ Personalizing Dialogue Agents](https://arxiv.org/abs/1801.07243), [dataset](http
 ##### Reading Materials - Blog
 - [Chat Smarter with Allo](https://ai.googleblog.com/2016/05/chat-smarter-with-allo.html)
 
+https://tv.naver.com/v/3770268/list/152707
 
 <!-- #### ch 6. Dependency Parsing
 
