@@ -79,7 +79,7 @@
 - Trends of Word Embeddings
   - [Awesome2Vec](https://github.com/MaxwellRebo/awesome-2vec)
   - [Word embeddings in 2017: Trends and future directions](http://ruder.io/word-embeddings-2017/)
-
+- https://github.com/Separius/awesome-sentence-embedding/blob/master/README.md?fbclid=IwAR0G2oD8j_L5zRr1ahJ4YS6PFjxdZkyGGfuLiCcTpZsCK6HCITmFn-Oct5w
 
 #### ch 3. Neural Network Archietures for NLP tasks
 
